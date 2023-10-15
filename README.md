@@ -16,29 +16,13 @@ KNN
 
 Perceptron
 
-Random Forest
-
 Decision Tree
 
 Extra Tree
 
+Random Forest
+
 Gradient Boosting
-
-Light GBM
-
-XGBoost
-
-Catboost
-
-Stochastic Gradient Descent
-
-Lasso
-
-Kernel Ridge Regression
-
-Bayesian Ridge
-
-Elastic Net Regression
 
 LDA
 
